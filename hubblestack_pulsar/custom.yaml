@@ -1,2 +1,1 @@
-/etc:
 /root: { recurse: True, auto_add: True }
