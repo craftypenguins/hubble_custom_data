@@ -1,0 +1,7 @@
+service:
+  whitelist:
+    hubble_running:
+      data:
+        '*':
+        - hubble: Hubblestack
+      description: Ensure hubble service is enabled
