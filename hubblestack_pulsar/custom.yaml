@@ -1,1 +1,2 @@
 /root: { recurse: True, auto_add: True }
+/etc: { recurse: True, auto_add: True }
